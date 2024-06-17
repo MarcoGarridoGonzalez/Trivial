@@ -1,0 +1,48 @@
+C:\Users\rcmga\Downloads\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Trivial.csproj.AssemblyReference.cache
+C:\Users\rcmga\Downloads\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\rcmga\Downloads\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Trivial.csproj.GenerateResource.cache
+C:\Users\rcmga\Downloads\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Trivial.csproj.CoreCompileInputs.cache
+C:\Users\rcmga\Downloads\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\rcmga\Downloads\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\rcmga\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\rcmga\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\rcmga\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\rcmga\Downloads\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\rcmga\Downloads\Trivial (1)\Trivial\WindowsFormsApp1\obj\Debug\Trivial.csproj.AssemblyReference.cache
+C:\Users\rcmga\Downloads\Trivial (1)\Trivial\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\rcmga\Downloads\Trivial (1)\Trivial\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Invitacion.resources
+C:\Users\rcmga\Downloads\Trivial (1)\Trivial\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Tablero.resources
+C:\Users\rcmga\Downloads\Trivial (1)\Trivial\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\rcmga\Downloads\Trivial (1)\Trivial\WindowsFormsApp1\obj\Debug\Trivial.csproj.GenerateResource.cache
+C:\Users\rcmga\Downloads\Trivial (1)\Trivial\WindowsFormsApp1\obj\Debug\Trivial.csproj.CoreCompileInputs.cache
+C:\Users\rcmga\Downloads\Trivial (1)\Trivial\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\rcmga\Downloads\Trivial (1)\Trivial\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\rcmga\Downloads\Trivial (1)\Trivial\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\rcmga\Downloads\Trivial (1)\Trivial\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\rcmga\Downloads\Trivial (1)\Trivial\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\rcmga\Downloads\Trivial (1) (1)\Trivial (1)\Trivial\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\rcmga\Downloads\Trivial (1) (1)\Trivial (1)\Trivial\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\rcmga\Downloads\Trivial (1) (1)\Trivial (1)\Trivial\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\rcmga\Downloads\Trivial (1) (1)\Trivial (1)\Trivial\WindowsFormsApp1\obj\Debug\Trivial.csproj.AssemblyReference.cache
+C:\Users\rcmga\Downloads\Trivial (1) (1)\Trivial (1)\Trivial\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\rcmga\Downloads\Trivial (1) (1)\Trivial (1)\Trivial\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Invitacion.resources
+C:\Users\rcmga\Downloads\Trivial (1) (1)\Trivial (1)\Trivial\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Tablero.resources
+C:\Users\rcmga\Downloads\Trivial (1) (1)\Trivial (1)\Trivial\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Preguntas.resources
+C:\Users\rcmga\Downloads\Trivial (1) (1)\Trivial (1)\Trivial\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\rcmga\Downloads\Trivial (1) (1)\Trivial (1)\Trivial\WindowsFormsApp1\obj\Debug\Trivial.csproj.GenerateResource.cache
+C:\Users\rcmga\Downloads\Trivial (1) (1)\Trivial (1)\Trivial\WindowsFormsApp1\obj\Debug\Trivial.csproj.CoreCompileInputs.cache
+C:\Users\rcmga\Downloads\Trivial (1) (1)\Trivial (1)\Trivial\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\rcmga\Downloads\Trivial (1) (1)\Trivial (1)\Trivial\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\rcmga\Downloads\Trivial (5) (1)\Trivial (1) (1)\Trivial (1)\Trivial\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\rcmga\Downloads\Trivial (5) (1)\Trivial (1) (1)\Trivial (1)\Trivial\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\rcmga\Downloads\Trivial (5) (1)\Trivial (1) (1)\Trivial (1)\Trivial\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\rcmga\Downloads\Trivial (5) (1)\Trivial (1) (1)\Trivial (1)\Trivial\WindowsFormsApp1\obj\Debug\Trivial.csproj.AssemblyReference.cache
+C:\Users\rcmga\Downloads\Trivial (5) (1)\Trivial (1) (1)\Trivial (1)\Trivial\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\rcmga\Downloads\Trivial (5) (1)\Trivial (1) (1)\Trivial (1)\Trivial\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Invitacion.resources
+C:\Users\rcmga\Downloads\Trivial (5) (1)\Trivial (1) (1)\Trivial (1)\Trivial\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Tablero.resources
+C:\Users\rcmga\Downloads\Trivial (5) (1)\Trivial (1) (1)\Trivial (1)\Trivial\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Preguntas.resources
+C:\Users\rcmga\Downloads\Trivial (5) (1)\Trivial (1) (1)\Trivial (1)\Trivial\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\rcmga\Downloads\Trivial (5) (1)\Trivial (1) (1)\Trivial (1)\Trivial\WindowsFormsApp1\obj\Debug\Trivial.csproj.GenerateResource.cache
+C:\Users\rcmga\Downloads\Trivial (5) (1)\Trivial (1) (1)\Trivial (1)\Trivial\WindowsFormsApp1\obj\Debug\Trivial.csproj.CoreCompileInputs.cache
+C:\Users\rcmga\Downloads\Trivial (5) (1)\Trivial (1) (1)\Trivial (1)\Trivial\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\rcmga\Downloads\Trivial (5) (1)\Trivial (1) (1)\Trivial (1)\Trivial\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
